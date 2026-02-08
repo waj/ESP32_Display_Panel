@@ -15,7 +15,7 @@
 #include "freertos/semphr.h"
 #include "utils/esp_panel_utils_cxx.hpp"
 #include "drivers/bus/esp_panel_bus_factory.hpp"
-#include "port/esp_lcd_touch.h"
+#include "esp_lcd_touch.h"
 #include "esp_panel_touch_conf_internal.h"
 
 namespace esp_panel::drivers {
